@@ -1,0 +1,12 @@
+{
+  "name": "yarnTest",
+  "version": "1.0.0",
+  "description": "Learning about yarn",
+  "main": "index.js",
+  "author": "ELine",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "jquery": "^3.5.0"
+  }
+}
